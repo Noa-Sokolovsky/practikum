@@ -1,2 +1,0 @@
-# practikum
-practice to practikum
